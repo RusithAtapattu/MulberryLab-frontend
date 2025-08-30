@@ -1,0 +1,2 @@
+# MulberryLab-frontend
+MulberryLab-frontend is the client-side application for the MulberryLab system, developed with React. It provides an interactive user interface for farmers, botanists, and conservationists to upload images, view mulberry detection results, access health benefits, recipes, farmer guidance, and community discussions. It communicates with the backend APIs to deliver a smooth and user-friendly experience.
